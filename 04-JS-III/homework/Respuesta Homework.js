@@ -1,0 +1,1 @@
+// Arrays: son una caja de juguetes con muchos elementos que se pueden incluir adentro con un orden
